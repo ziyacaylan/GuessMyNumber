@@ -12,9 +12,6 @@
 
 <<<<<<< HEAD
 Project Link : [https://ziyacaylan.github.io/GuessMyNumber/](https://ziyacaylan.github.io/GuessMyNumber/)
-=======
-Project Link :  [https://ziyacaylan.github.io/GuessMyNumber/](https://ziyacaylan.github.io/GuessMyNumber/)
->>>>>>> 810f4e7a2e449490f90476f5c2ec83731ff1fa24
 
 ## Used Technologies
 
