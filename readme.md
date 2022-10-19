@@ -10,7 +10,6 @@
 
 ## Instructor : Murat AKDAĞ
 
-<<<<<<< HEAD
 Project Link : [https://ziyacaylan.github.io/GuessMyNumber/](https://ziyacaylan.github.io/GuessMyNumber/)
 
 ## Used Technologies
