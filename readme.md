@@ -36,3 +36,4 @@ Project Link : [https://ziyacaylan.github.io/GuessMyNumber/](https://ziyacaylan.
 ![image-1](./assets/image_1.jpg)  
 ![image-2](./assets/image_2.jpg)  
 ![image-3](./assets/image_3.jpg)
+![image-4](./assets/image_4.jpg)
