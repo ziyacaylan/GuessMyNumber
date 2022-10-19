@@ -10,7 +10,7 @@
 
 ## Instructor : Murat AKDAĞ
 
-Project Link : [ttps://ziyacaylan.github.io/GuessMyNumber/](ttps://ziyacaylan.github.io/GuessMyNumber/)
+Project Link : [https://ziyacaylan.github.io/GuessMyNumber/](https://ziyacaylan.github.io/GuessMyNumber/)
 
 ## Used Technologies
 
@@ -29,3 +29,9 @@ Project Link : [ttps://ziyacaylan.github.io/GuessMyNumber/](ttps://ziyacaylan.gi
 - When the user presses the button again, the game restarts.
 
 ## Good Luck
+
+## Some Screenshots Below
+
+![image-1](./assets/image_1.jpg)  
+![image-2](./assets/image_2.jpg)  
+![image-3](./assets/image_3.jpg)
